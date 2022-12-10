@@ -26,14 +26,14 @@ const Index = () =>
                 </div>
                 <div className="col-md-8">
                     <h1 >Manuel Portero </h1>
-                    <h3 >ML Developer</h3> 
+                    <h3 >Industrial IT</h3> 
                     <h6 style={{paddingTop:'8px',textAlign:'justify'}}> Comming soon...</h6>
                    
                 </div>
 
                 <div className="col-md-2 text-center">
                     <div className="text-center">
-                          <img src="ML.jpg"  className="img-fluid" alt="Imagen perfil"/> 
+                          <img src="Industry40.jpg"  className="img-fluid" alt="Imagen perfil"/> 
                     </div>
                     <div className="text-center pt-1">
                           <a className="btn btn-light border" href="https://profesionalwebsite-mpl.vercel.app/">Website</a>
