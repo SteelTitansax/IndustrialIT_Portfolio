@@ -27,7 +27,8 @@ const Index = () =>
                 <div className="col-md-8">
                     <h1 >Manuel Portero </h1>
                     <h3 >Industrial IT</h3> 
-                    <h6 style={{paddingTop:'8px',textAlign:'justify'}}> Comming soon...</h6>
+                    <h6 style={{paddingTop:'8px',textAlign:'justify'}}> Please have a look to the different IT solutions for industry demos.</h6>
+                   
                    
                 </div>
 
@@ -121,11 +122,12 @@ const Index = () =>
                             <hr className="bg-white "/>
                         </div>        
                         
+                        <div className="col-md-2 p-3"/>
 
                         {
                               projects.map(({name,description,image,url},i) => (
                                 
-                                    <div className="col-md-3 p-3" key={i}>
+                                    <div className="col-md-4 p-3" key={i}>
                                     <div className="card h-100">
                                         <div className="overflow ">
                                             <img src={`/${image}`} alt="Imagen Portfolio1" className="card-img-top border-bottom" />
@@ -147,7 +149,8 @@ const Index = () =>
                               ))
                           }
 
-                          
+                    
+                    <div className="col-md-2 p-3"/>      
 
 
 
