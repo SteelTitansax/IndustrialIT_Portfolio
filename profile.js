@@ -73,7 +73,7 @@ export const projects = [
     {
         name: "Industrial Simulations",
         description:"Please check the industrial simulations section of this PortFolio",
-        image:"Industry40simulation.png",
+        image:"Industry40simulations.png",
         url:"/",
     }
 ]
