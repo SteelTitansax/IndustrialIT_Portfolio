@@ -118,7 +118,7 @@ const Index = () =>
                             <h1 className="text-center text-light"> Portfolios</h1>
                         </div>
                         <div className="col-md-12 mt-3">
-                            <h3 className="text-center text-light"> Roles</h3>
+                            <h3 className="text-center text-light">Sections</h3>
                             <hr className="bg-white "/>
                         </div>        
                         
