@@ -14,14 +14,12 @@ const Canvas = () =>
             <div className="card card-body bg-primary text-light">
             <div className="row">
                 <div className="col-md-2">
-                    <img src="canvas.png" className="mt-1" height="95px" alt="React perfil"/>
+                    <img src="Industry40apps.png" className="mt-1" height="95px" alt="React perfil"/>
                 </div>
                 <div className="col-md-10">
-                    <h1 >PowerApps  </h1>
-                    <h3>Front end Framework</h3> 
-                    <h6 style={{paddingTop:'8px'}}>Power Apps is one of the four main services within the Power Platform, the other three being Power Automate, Power Virtual Agents and Power BI.
-
-With Power Apps citizen developers can build apps and portals without using traditional code. There are several different no-code/low-code approaches to create business logic to your apps, e.g. by using Power Automate flows or workflows. Professional developers can extend apps with code, e.g. by creating business logic using plug-ins or Azure functions. Power Apps Component Framework is the framework used by Microsoft to create components to model-driven apps.</h6>
+                    <h1 >Industry Apps  </h1>
+                    <h3>IT solution</h3> 
+                    <h6 style={{paddingTop:'8px'}}>To be defined, comming soon.</h6>
                    
                 </div>
             </div>
