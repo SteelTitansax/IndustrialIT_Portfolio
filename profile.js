@@ -77,3 +77,54 @@ export const projects = [
         url:"/",
     }
 ]
+
+
+
+
+export const powerappsSkills = [ 
+    {
+        skill: 'Components',
+        percentage : 100,
+    },
+    {
+        skill: 'Canvas',
+        percentage : 100,
+    },{
+        skill: 'Portals',
+        percentage : 100,
+    }
+]
+
+
+export const canvasProjects = [ 
+    {
+        name: "Clock-In Clock Out App",
+        description:"Check my ClockWork App",
+        image:"travel.png",
+        url:"",
+    }, {
+        name: "Warehouse app",
+        description:"Check my Warehouse app demo",
+        image:"Warehouse.png",
+        url:"https://www.youtube.com/watch?v=0WNF4t7c2TY",
+    }
+    , {
+        name: "Industrial Report App",
+        description:"Check my Industrial Report app demo",
+        image:"Ai-builder.png",
+        url:"",
+    }
+]
+
+
+
+export const powerappsExperiences = [ 
+    {
+        title: 'PowerApps software Developer at Seidor – Barcelona/Es ',
+        description : "Software developing canvas apps and Powerapps Portals for different clients at Seidor S.A.",
+        from: "Present",
+        to:"Nov 2020",
+        url:"www.seidor.es"
+    }
+    
+]
