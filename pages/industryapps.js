@@ -17,7 +17,7 @@ const Canvas = () =>
                     <img src="Industry40apps.png" className="mt-1" height="95px" alt="React perfil"/>
                 </div>
                 <div className="col-md-10">
-                    <h1 >Industry Apps  </h1>
+                    <h1 >Industrial Apps  </h1>
                     <h3>IT solution</h3> 
                     <h6 style={{paddingTop:'8px'}}>To be defined, comming soon.</h6>
                    
@@ -104,7 +104,7 @@ const Canvas = () =>
                             
 
                         <div className="col-md-12 mt-3">
-                            <h3 className="text-center text-white"> Powerapps Canvas</h3>
+                            <h3 className="text-center text-white"> Industrial Apps</h3>
                             <div className="border-bottom"/>
                         </div>        
 
