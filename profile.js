@@ -67,13 +67,13 @@ export const projects = [
     {
         name: "Industrial Applications",
         description:"Please check the industrial applications section of this PortFolio",
-        image:"canvas.png",
+        image:"Industry40apps.png",
         url:"/",
     },
     {
         name: "Industrial Simulations",
         description:"Please check the industrial simulations section of this PortFolio",
-        image:"azure.png",
+        image:"Industry40simulation.png",
         url:"/",
     }
 ]
