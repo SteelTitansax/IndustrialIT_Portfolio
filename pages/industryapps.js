@@ -4,7 +4,7 @@ import {powerappsSkills, powerappsExperiences, reactProjects, reactNativeProject
 import Link from 'next/link'
 
 
-const Canvas = () =>
+const IndustryApps = () =>
 <Layout>
 
     {/** Header card */}
@@ -155,4 +155,4 @@ With Power Apps citizen developers can build apps and portals without using trad
 </Layout>
 
 
-export default Canvas;
+export default IndustryApps;
