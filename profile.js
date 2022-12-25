@@ -100,7 +100,7 @@ export const canvasProjects = [
     {
         name: "Clock-In Clock Out App",
         description:"Check my ClockWork App",
-        image:"travel.png",
+        image:"clock.png",
         url:"https://youtu.be/uYm6t_Jy1hg",
     }, {
         name: "Warehouse app",
@@ -111,7 +111,7 @@ export const canvasProjects = [
     , {
         name: "Industrial Report App",
         description:"Check my Industrial Report app demo",
-        image:"Ai-builder.png",
+        image:"industrialreport.png",
         url:"https://youtu.be/XTOEr7wS9B4",
     }
 ]
