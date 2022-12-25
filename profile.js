@@ -112,7 +112,7 @@ export const canvasProjects = [
         name: "Industrial Report App",
         description:"Check my Industrial Report app demo",
         image:"Ai-builder.png",
-        url:"",
+        url:"https://youtu.be/XTOEr7wS9B4",
     }
 ]
 
