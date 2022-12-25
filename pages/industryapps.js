@@ -18,7 +18,7 @@ const Canvas = () =>
                 </div>
                 <div className="col-md-10">
                     <h1 >Industrial Apps  </h1>
-                    <h3>IT solution</h3> por
+                    <h3>IT solution</h3> 
                     <h6 style={{paddingTop:'8px'}}>One of the new technologies for reaching the Industry4.0 goal are low-code techonologies. This portfolio section is a little sample about how low-code app can automate and speed up the daily processes of a factory.</h6>
                    
                 </div>
