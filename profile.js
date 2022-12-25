@@ -101,7 +101,7 @@ export const canvasProjects = [
         name: "Clock-In Clock Out App",
         description:"Check my ClockWork App",
         image:"travel.png",
-        url:"",
+        url:"https://youtu.be/uYm6t_Jy1hg",
     }, {
         name: "Warehouse app",
         description:"Check my Warehouse app demo",
