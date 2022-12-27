@@ -564,7 +564,7 @@ a {
         flex: 1 1 auto;
         padding: 1rem 1rem;
         margin-top:5px!important;
-        height: 520px;
+        height: 720px;
     }
     .card-body-experienceReact {
         -moz-box-flex: 1;
@@ -600,14 +600,14 @@ a {
         flex: 1 1 auto;
         padding: 1rem 1rem;
         margin-top:5px!important;
-        height: 270px;
+        height: 720px;
     }
     .card-body-skillsFullStack{
         -moz-box-flex: 1;
         flex: 1 1 auto;
         padding: 1rem 1rem;
         margin-top:5px!important;
-        height: 330px;
+        height: 720px;
     }
     .card-body-experienceFullstack{
         -moz-box-flex: 1;
