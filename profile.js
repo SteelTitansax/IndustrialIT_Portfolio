@@ -138,7 +138,7 @@ export const simulationsProjects = [
     }, {
         name: "Reactor Designing Simulator App",
         description:"Check my Reactor Designing Simulator App demo",
-        image:"CSTR_Reactor.png",
+        image:"DSTR_Reactor.png",
         url:"https://youtu.be/D7On03JmYAk",
     }
     , {
