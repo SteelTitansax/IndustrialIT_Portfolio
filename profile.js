@@ -134,7 +134,7 @@ export const simulationsProjects = [
         name: "CSTR Series Simualtion",
         description:"Check my CSTR Series Reactor Simulation demo",
         image:"CSTR_Serie.png",
-        url:"",
+        url:"https://youtu.be/9zPt6GWTN7s",
     }, {
         name: "Reactor Designing Simulator App",
         description:"Check my Reactor Designing Simulator App demo",
@@ -145,7 +145,7 @@ export const simulationsProjects = [
         name: "Nafta's Reactor Simulation",
         description:"Check my Nafta's Reactor Simulation demo",
         image:"NaftasReactor.png",
-        url:"https://youtu.be/Mm7rYzX_52E",
+        url:"https://youtu.be/LR8g98nH8HI",
     }
 ]
 
