@@ -131,21 +131,21 @@ export const powerappsExperiences = [
 
 export const simulationsProjects = [ 
     {
-        name: "Clock-In Clock Out App",
-        description:"Check my ClockWork App",
-        image:"travel.png",
+        name: "CSTR Series Simualtion",
+        description:"Check my CSTR Series Reactor Simulation demo",
+        image:"CSTR_Serie.png",
         url:"",
     }, {
-        name: "Warehouse app",
-        description:"Check my Warehouse app demo",
-        image:"Warehouse.png",
-        url:"https://www.youtube.com/watch?v=0WNF4t7c2TY",
+        name: "Reactor Designing Simulator App",
+        description:"Check my Reactor Designing Simulator App demo",
+        image:"CSTR_Reactor.png",
+        url:"https://youtu.be/D7On03JmYAk",
     }
     , {
-        name: "Industrial Report App",
-        description:"Check my Industrial Report app demo",
-        image:"Ai-builder.png",
-        url:"",
+        name: "Nafta's Reactor Simulation",
+        description:"Check my Nafta's Reactor Simulation demo",
+        image:"NaftasReactor.png",
+        url:"https://youtu.be/Mm7rYzX_52E",
     }
 ]
 
