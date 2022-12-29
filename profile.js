@@ -74,7 +74,7 @@ export const projects = [
         name: "Industrial Simulations",
         description:"Please check the industrial simulations section of this PortFolio",
         image:"Industry40simulations.png",
-        url:"/",
+        url:"/industrysimulations",
     }
 ]
 
@@ -128,3 +128,24 @@ export const powerappsExperiences = [
     }
     
 ]
+
+export const simulationsProjects = [ 
+    {
+        name: "Clock-In Clock Out App",
+        description:"Check my ClockWork App",
+        image:"travel.png",
+        url:"",
+    }, {
+        name: "Warehouse app",
+        description:"Check my Warehouse app demo",
+        image:"Warehouse.png",
+        url:"https://www.youtube.com/watch?v=0WNF4t7c2TY",
+    }
+    , {
+        name: "Industrial Report App",
+        description:"Check my Industrial Report app demo",
+        image:"Ai-builder.png",
+        url:"",
+    }
+]
+
