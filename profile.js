@@ -83,14 +83,14 @@ export const projects = [
 
 export const powerappsSkills = [ 
     {
-        skill: 'Components',
+        skill: 'Cloud Developing',
         percentage : 100,
     },
     {
-        skill: 'Canvas',
+        skill: 'BPA Automation',
         percentage : 100,
     },{
-        skill: 'Portals',
+        skill: 'Low Code Skills',
         percentage : 100,
     }
 ]
