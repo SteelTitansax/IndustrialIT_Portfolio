@@ -124,7 +124,7 @@ export const powerappsExperiences = [
         description : "Software developing canvas apps and Powerapps Portals for different clients at Seidor S.A.",
         from: "Present",
         to:"Nov 2020",
-        url:"www.seidor.es"
+        url:"https://www.seidor.es/content/seidorweb/es.html"
     }
     
 ]
