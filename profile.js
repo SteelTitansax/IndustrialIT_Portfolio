@@ -99,12 +99,12 @@ export const powerappsSkills = [
 export const canvasProjects = [ 
     {
         name: "Clock-In Clock Out App",
-        description:"Check my ClockWork App",
+        description:"Check my Clock-In/Out App",
         image:"clock.png",
         url:"https://youtu.be/uYm6t_Jy1hg",
     }, {
         name: "Warehouse app",
-        description:"Check my Warehouse app demo",
+        description:"Check my Materials Management app demo",
         image:"Warehouse.png",
         url:"https://www.youtube.com/watch?v=0WNF4t7c2TY",
     }
