@@ -109,7 +109,7 @@ const Canvas = () =>
                         </div>        
 
                         {
-                              canvasProjects.map(({name,description,image,url},i) => (
+                              canvasProjects.map(({name,description,image,url,github},i) => (
                                 
                                     <div className="col-md-4 p-2" key={i}>
                                     <div className="card h-100">
@@ -120,7 +120,7 @@ const Canvas = () =>
                                             <h5 className="text-center text-white"><strong>{name}</strong></h5>
                                             <p className="text-center  text-white">{description}</p>
                                             <div className="text-center">
-                                            <a className="btn btn-info border button-card" href ={url}>Code</a>
+                                            <a className="btn btn-info border button-card" href ={github}>Code</a>
                                             <a className="btn btn-success border button-card" href ={url}>Demo</a>
 
                                             </div>
