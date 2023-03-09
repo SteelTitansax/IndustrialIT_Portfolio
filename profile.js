@@ -154,4 +154,3 @@ export const simulationsProjects = [
         github:"https://github.com/SteelTitansax/Cracking_Nafta_Reactor_Simulation"
     }
 ]
-
