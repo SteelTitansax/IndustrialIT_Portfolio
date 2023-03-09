@@ -120,7 +120,8 @@ const Canvas = () =>
                                             <h5 className="text-center text-white"><strong>{name}</strong></h5>
                                             <p className="text-center  text-white">{description}</p>
                                             <div className="text-center">
-                                            <a className="btn btn-info border button-card" href ={url}>Demo</a>
+                                            <a className="btn btn-info border button-card" href ={url}>Code</a>
+                                            <a className="btn btn-success border button-card" href ={url}>Demo</a>
                                             </div>
                                            
                                         </div>
