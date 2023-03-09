@@ -102,17 +102,20 @@ export const canvasProjects = [
         description:"Check my Clock-In/Out App",
         image:"clock.png",
         url:"https://youtu.be/uYm6t_Jy1hg",
+        github:"https://github.com/SteelTitansax/PowerApp_Clock_In_Out_App"
     }, {
         name: "Warehouse app",
         description:"Check my Materials Management app demo",
         image:"Warehouse.png",
         url:"https://www.youtube.com/watch?v=0WNF4t7c2TY",
+        github:"https://github.com/SteelTitansax/Materials_Management_PowerApp"
     }
     , {
         name: "Industrial Report App",
         description:"Check my Industrial Report app demo",
         image:"industrialreport.png",
         url:"https://youtu.be/XTOEr7wS9B4",
+        github:"https://github.com/SteelTitansax/PowerApp_Industrial_Report_App"
     }
 ]
 
@@ -135,17 +138,20 @@ export const simulationsProjects = [
         description:"Check my CSTR Series Reactor Simulation demo",
         image:"CSTR_Serie.png",
         url:"https://youtu.be/9zPt6GWTN7s",
+        github:"https://github.com/SteelTitansax/CSTR_Series_Simulation_Solution"
     }, {
         name: "Reactor Designing Simulator App",
         description:"Check my Reactor Designing Simulator App demo",
         image:"DSTR_Reactor.png",
         url:"https://youtu.be/D7On03JmYAk",
+         github:"https://github.com/SteelTitansax/Reactor_Designing_FunctionApp"
     }
     , {
         name: "Nafta's Reactor Simulation",
         description:"Check my Nafta's Reactor Simulation demo",
         image:"NaftasReactor.png",
         url:"https://youtu.be/LR8g98nH8HI",
+        github:"https://github.com/SteelTitansax/Cracking_Nafta_Reactor_Simulation"
     }
 ]
 
