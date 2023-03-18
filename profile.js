@@ -116,6 +116,12 @@ export const canvasProjects = [
         image:"industrialreport.png",
         url:"https://youtu.be/XTOEr7wS9B4",
         github:"https://github.com/SteelTitansax/PowerApp_Industrial_Report_App"
+    }, {
+        name: "Warehouse PowerBI Map",
+        description:"Check my Warehouse PowerBI Map demo",
+        image:"web.jpg",
+        url:"https://youtu.be/4SqW8QTK88A",
+        github:"https://github.com/SteelTitansax/WarehouseMap_PowerBI"
     }
 ]
 
