@@ -158,5 +158,24 @@ export const simulationsProjects = [
         image:"NaftasReactor.png",
         url:"https://youtu.be/LR8g98nH8HI",
         github:"https://github.com/SteelTitansax/Cracking_Nafta_Reactor_Simulation"
+    }, {
+        name: "SBR Reactor Simulation",
+        description:"Check my SBR Reactor Simulation demo",
+        image:"SBR.png",
+        url:"https://www.youtube.com/watch?v=o-NajRdfabA",
+        github:"https://github.com/SteelTitansax/SBR_ReactorSimulation"
+    }, {
+        name: "Beer Industrial Process Simulator",
+        description:"Check my Industrial Simulator App demo",
+        image:"BeerIndustry.png",
+        url:"",
+         github:"https://github.com/SteelTitansax/BeerIndustrialProcessSimulator"
+    }
+    , {
+        name: "Warehouse app",
+        description:"Check my Materials Management app demo",
+        image:"Warehouse.png",
+        url:"https://www.youtube.com/watch?v=0WNF4t7c2TY",
+        github:"https://github.com/SteelTitansax/Materials_Management_PowerApp"
     }
 ]
