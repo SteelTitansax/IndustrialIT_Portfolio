@@ -168,7 +168,7 @@ export const simulationsProjects = [
         name: "Beer Industrial Process Simulator",
         description:"Check my Industrial Simulator App demo",
         image:"BeerIndustry.png",
-        url:"",
+        url:"https://www.youtube.com/watch?v=8uKz33knwm8",
          github:"https://github.com/SteelTitansax/BeerIndustrialProcessSimulator"
     }
     , {
