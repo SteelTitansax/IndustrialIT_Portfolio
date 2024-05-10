@@ -1,6 +1,6 @@
-# Manuel Portero's RPA Portfolio.
+# Manuel Portero's Industrial IT Portfolio.
 
-## Here you can find the different RPA technologies that I've been working with during my career.
+## Here you can find the different industral IT technologies that I've been working with during my career.
 
 # Live demo : https://industrial-it-portfolio.vercel.app/
 
