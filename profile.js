@@ -171,11 +171,19 @@ export const simulationsProjects = [
         url:"https://www.youtube.com/watch?v=8uKz33knwm8",
          github:"https://github.com/SteelTitansax/BeerIndustrialProcessSimulator"
     }
+    
     , {
         name: "Bubble Column Reactor Simulator",
-        description:"Check my Materials Management app demo",
+        description:"Check my BCR simulator demo",
         image:"DSTR_Reactor.png",
         url:"https://www.youtube.com/watch?v=eX57Ai1j_M8",
+        github:"/"
+    }
+    , {
+        name: "Tank Designer Simulator",
+        description:"Check my Tank designer app demo",
+        image:"DSTR_Reactor.png",
+        url:"https://www.youtube.com/watch?v=64w--IeCR1U",
         github:"/"
     }
 ]
