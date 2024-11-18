@@ -172,10 +172,10 @@ export const simulationsProjects = [
          github:"https://github.com/SteelTitansax/BeerIndustrialProcessSimulator"
     }
     , {
-        name: "Warehouse app",
+        name: "Bubble Column Reactor Simulator",
         description:"Check my Materials Management app demo",
-        image:"Warehouse.png",
-        url:"https://www.youtube.com/watch?v=0WNF4t7c2TY",
-        github:"https://github.com/SteelTitansax/Materials_Management_PowerApp"
+        image:"DSTR_Reactor.png",
+        url:"https://www.youtube.com/watch?v=eX57Ai1j_M8",
+        github:"/"
     }
 ]
