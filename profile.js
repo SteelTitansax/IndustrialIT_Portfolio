@@ -175,7 +175,7 @@ export const simulationsProjects = [
     , {
         name: "Bubble Column Reactor Simulator",
         description:"Check my BCR simulator demo",
-        image:"DSTR_Reactor.png",
+        image:"BubbleColumnReactor.png",
         url:"https://www.youtube.com/watch?v=eX57Ai1j_M8",
         github:"/"
     }
