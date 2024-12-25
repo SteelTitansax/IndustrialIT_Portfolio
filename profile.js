@@ -182,7 +182,7 @@ export const simulationsProjects = [
     , {
         name: "Tank Designer Simulator",
         description:"Check my Tank designer app demo",
-        image:"DSTR_Reactor.png",
+        image:"TankDesigner.png",
         url:"https://www.youtube.com/watch?v=64w--IeCR1U",
         github:"/"
     }
